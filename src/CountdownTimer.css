@@ -1,0 +1,31 @@
+/* CountdownTimer.css */
+
+.countdown-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .countdown-timer {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .countdown-timer span {
+    margin-right: 5px;
+  }
+  
+  .countdown-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .countdown-button:hover {
+    background-color: #c82333;
+  }
+  

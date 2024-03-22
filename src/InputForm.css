@@ -1,0 +1,44 @@
+/* InputForm.css */
+
+.input-form-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .input-form-header {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .input-field {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .input-field:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #218838;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
